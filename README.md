@@ -8,4 +8,4 @@ Computed Tomography (CT) scans are the standard-of-care for the visualization an
 
 
 ## Baselines
-The code repository of our previous work INRR3CT (https://github.com/wanderinrain/Xray2CT), now has removed here: https://github.com/LexieSunn/INRR3CT.
+The code repository of our previous work, INRR3CT (https://github.com/wanderinrain/Xray2CT), now has removed here: https://github.com/LexieSunn/INRR3CT.
