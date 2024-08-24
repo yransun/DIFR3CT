@@ -4,4 +4,4 @@ Code for the paper "DIFR3CT: Latent Diffusion for Probabilistic 3D CT Reconstruc
 Coming Soon!
 
 
-The code repository of our previous work INRR3CT (https://github.com/wanderinrain/Xray2CT) has removed here: https://github.com/LexieSunn/INRR3CT
+The code repository of our previous work INRR3CT (https://github.com/wanderinrain/Xray2CT), which also served as a baseline in this paper, has removed here: https://github.com/LexieSunn/INRR3CT.
