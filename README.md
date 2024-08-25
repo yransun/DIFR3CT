@@ -8,4 +8,14 @@ Computed Tomography (CT) scans are the standard-of-care for the visualization an
 
 
 ## Baselines
-The code repository of our previous work, INRR3CT (https://github.com/wanderinrain/Xray2CT), now has removed here: https://github.com/LexieSunn/INRR3CT.
+We choose the following previous work as our baselines in the paper:
+
+INRR3CT: CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy: https://github.com/LexieSunn/INRR3CT
+
+X2CT-GAN: Reconstructing CT from Biplanar X-Rays with Generative Adversarial Networks: https://github.com/kylekma/X2CT
+
+Video Diffusion Models: https://github.com/lucidrains/video-diffusion-pytorch
+
+NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction: https://github.com/Ruyi-Zha/naf_cbct
+
+
