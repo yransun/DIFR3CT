@@ -19,3 +19,12 @@ We choose the following previous work as our baselines in the paper:
 4. NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction: https://github.com/Ruyi-Zha/naf_cbct
 
 
+## References
+We choose the following previous work as our baselines in the paper:
+
+1. Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer: https://github.com/songweige/TATS
+
+2. Video Diffusion Models: https://github.com/lucidrains/video-diffusion-pytorch
+
+
+
