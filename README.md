@@ -20,7 +20,6 @@ We choose the following previous work as our baselines in the paper:
 
 
 ## References
-We choose the following previous work as our baselines in the paper:
 
 1. Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer: https://github.com/songweige/TATS
 
