@@ -14,7 +14,7 @@ Computed Tomography (CT) scans are the standard-of-care for the visualization an
 ## Baselines
 We choose the following previous work as our baselines in the paper:
 
-1. INRR3CT: CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy: https://github.com/LexieSunn/INRR3CT
+1. INRR3CT: CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy: https://github.com/yransun/INRR3CT
 
 2. X2CT-GAN: Reconstructing CT from Biplanar X-Rays with Generative Adversarial Networks: https://github.com/kylekma/X2CT
 
