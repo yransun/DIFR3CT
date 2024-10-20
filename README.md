@@ -6,7 +6,7 @@ This is the official pytorch implementation of the deep leraning model DIFR3CT f
 
 
 ## Code release
-The code will be ready before Nov. 30, 2024.
+The code will be ready once the review process ends. In the meantime, if you have any questions regarding our paper, please feel free to open an issues or send me an email! Thanks for your patience :).
 
 
 ## Abstract
