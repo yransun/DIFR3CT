@@ -22,24 +22,6 @@ If you find the paper useful in your research, please cite the paper:
                year={2024}
                }
 
-      
-## Baselines
-We choose the following previous work as our baselines in the paper:
-
-1. INRR3CT: CT Reconstruction from Few Planar X-Rays with Application Towards Low-Resource Radiotherapy: https://github.com/yransun/INRR3CT
-
-2. X2CT-GAN: Reconstructing CT from Biplanar X-Rays with Generative Adversarial Networks: https://github.com/kylekma/X2CT
-
-3. Video Diffusion Models: https://github.com/lucidrains/video-diffusion-pytorch
-
-4. NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction: https://github.com/Ruyi-Zha/naf_cbct
-
-
-## References
-
-1. Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer: https://github.com/songweige/TATS
-
-2. Video Diffusion Models: https://github.com/lucidrains/video-diffusion-pytorch
 
 
 
